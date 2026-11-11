@@ -1,0 +1,13 @@
+{
+    "ticket": {
+        "seat": "",
+        "class": "",
+        "price": 0
+    },
+
+    "person_information": {
+        "Name": "",
+        "Surname": "",
+        "age" : 0
+    }
+}
